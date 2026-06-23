@@ -1,24 +1,219 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100083767241425&sk) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@enginer__muscab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muscabqaarey@gmail.com) 
+# 👋 Hi, I'm ENG-Qaarey
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ENG-Qaarey&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ENG-Qaarey&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ENG-Qaarey&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=ENG-Qaarey;Full+Stack+Developer;React+Native+Developer;TypeScript+%7C+Node.js+Developer;Building+XARIIR+-+Somali+Connection+Platform" alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ENG-Qaarey&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=ENG-Qaarey&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ENG-Qaarey&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ENG-Qaarey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+```yaml
+Name: ENG-Qaarey
+Role: Full Stack Developer
+Location: Somalia 🇸🇴
+Focus:
+  - Mobile App Development
+  - Web Development
+  - UI/UX Design
+  - Backend Development
+  - System Design
+
+Currently Building:
+  - XARIIR (Somali Connection Platform)
+
+Learning:
+  - Advanced React Native
+  - System Architecture
+  - Cloud Technologies
+
+Goal:
+  - Build products that impact millions of users
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.facebook.com/profile.php?id=100083767241425">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:muscabqaarey@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@enginer__muscab">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,python,html,css,tailwind,mongodb,mysql,expo,figma,git,github,vscode&perline=8"/>
+
+</p>
+
+---
+
+# 📱 Mobile Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,expo,androidstudio,kotlin,swift"/>
+
+</p>
+
+---
+
+# 🌍 Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,python"/>
+
+</p>
+
+---
+
+# 🎨 Design Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ENG-Qaarey&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENG-Qaarey&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ENG-Qaarey&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ENG-Qaarey&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ENG-Qaarey&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## XARIIR
+
+### Somali Connection Platform
+
+XARIIR is a modern communication platform built to connect Somali communities worldwide.
+
+### Features
+
+* 💬 Real-Time Messaging
+* 👥 Community Groups
+* 📢 Public Channels
+* 📞 Voice Calls
+* 🎥 Video Calls
+* 🔔 Smart Notifications
+* 🏢 Business Profiles
+* 🤖 AI Integration
+* 💰 XARIIR Pay (Upcoming)
+
+---
+
+# 💻 Development Workflow
+
+```text
+Idea
+ ↓
+Design
+ ↓
+Development
+ ↓
+Testing
+ ↓
+Deployment
+ ↓
+Maintenance
+```
+
+---
+
+# ✍️ Developer Quote
+
+> "Great software is built one clean commit at a time."
+
+---
+
+# 🎯 2026 Goals
+
+* Launch XARIIR
+* Build Production Mobile Apps
+* Master System Design
+* Grow Open Source Contributions
+* Learn Cloud Infrastructure
+* Build Scalable Platforms
+
+---
+
+# 📫 Contact
+
+📧 Email: [muscabqaarey@gmail.com](mailto:muscabqaarey@gmail.com)
+
+📱 TikTok: @enginer__muscab
+
+🌐 GitHub: https://github.com/ENG-Qaarey
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+### XARIIR — Connecting Somali Communities Worldwide
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Keep+Learning;Keep+Building;Keep+Growing;Never+Stop+Creating" />
+
+</div>
