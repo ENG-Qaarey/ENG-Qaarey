@@ -4,14 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00A8FF,100:0066FF&text=ENG-Qaarey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00A8FF,100:0066FF&text=ENG-Qaarey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Native+%26+Expo+Specialist;TypeScript+%7C+Node.js+%7C+NestJS;Building+XARIIR+-+Somali+Connection+Platform;Turning+Ideas+Into+Products" />
 
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Native+%26+Expo+Specialist;TypeScript+%7C+Node.js+%7C+NestJS;Building+XARIIR+-+Somali+Connection+Platform;Turning+Ideas+Into+Products" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=ENG-Qaarey;Full+Stack+Developer;React+Native+Developer;TypeScript+%7C+Node.js+Nest.js+Developer;Building+XARIIR+-+Somali+Connection+Platform" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=ENG-Qaarey;Full+Stack+Developer;React+Native+Developer;TypeScript+%7C+Node.js+Nest.js+Developer;Building+XARIIR+-+Somali+Connection+Platform" alt="Typing SVG" /> -->
 
 <br>
 
