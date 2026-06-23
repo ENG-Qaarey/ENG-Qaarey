@@ -51,6 +51,9 @@ Goal:
 
 <img src="https://jazeerauniversity.edu.so/wp-content/uploads/2022/09/cropped-logo.png" width="120"/>
 
+<img width="120" height="141" alt="image" src="https://github.com/user-attachments/assets/f99ca560-44c4-45f2-a3f5-d2e5aee2a673" />
+
+
 <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/jazeera-logo.png" width="120"/>
 
 
