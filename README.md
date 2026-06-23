@@ -15,7 +15,7 @@
 # 🚀 About Me
 
 ```yaml
-Name: ENG-Qaarey
+Name: Muscab Ahmed Mohamud - ENG-Qaarey
 Role: Full Stack Developer
 Location: Somalia 🇸🇴
 Focus:
