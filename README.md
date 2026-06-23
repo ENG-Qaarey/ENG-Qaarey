@@ -8,7 +8,7 @@
 
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=ENG-Qaarey;Full+Stack+Developer;React+Native+Developer;TypeScript+%7C+Node.js+Nest.js+Developer;Building+XARIIR+-+Somali+Connection+Platform" alt="Typing SVG" /> -->
 
-<br>
+<br>-
 
 <img src="https://komarev.com/ghpvc/?username=ENG-Qaarey&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
@@ -42,6 +42,52 @@ Goal:
 ```
 
 ---
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+### 🏛️ Jazeera University
+
+**Bachelor of Computer Science**
+
+📍 Mogadishu, Somalia 🇸🇴
+
+Faculty of Computing & Information Technology
+
+*"Transforming Knowledge into Innovation"*
+
+</div>
+
+---
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+<img src="https://jazeerauniversity.edu.so/wp-content/uploads/2022/09/cropped-logo.png" width="120"/>
+
+### Jazeera University
+
+**Bachelor of Computer Science**
+
+📍 Mogadishu, Somalia 🇸🇴
+
+🏛️ Faculty of Computing & Information Technology
+
+💻 Software Engineering • Mobile Development • Web Development • Database Systems
+
+🚀 Passionate about building scalable software solutions and innovative digital products.
+
+</div>
+
+---
+
+
 
 # 🌐 Connect With Me
 
