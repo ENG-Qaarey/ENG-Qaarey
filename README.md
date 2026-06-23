@@ -129,7 +129,11 @@ Goal:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ENG-Qaarey&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ENG-Qaarey&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ENG-Qaarey&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ENG-Qaarey&theme=github_dark" />
 
 </div>
 
