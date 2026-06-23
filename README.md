@@ -125,13 +125,13 @@ Goal:
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ENG-Qaarey&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ENG-Qaarey&theme=onedark&no-frame=true&no-bg=true&margin-w=15"/>
 
-</p>
+</div>
 
 ---
 
