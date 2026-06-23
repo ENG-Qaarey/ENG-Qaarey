@@ -139,29 +139,6 @@ Goal:
 
 </p>
 
----
-
-# 🚀 Featured Project
-
-## XARIIR
-
-### Somali Connection Platform
-
-XARIIR is a modern communication platform built to connect Somali communities worldwide.
-
-### Features
-
-* 💬 Real-Time Messaging
-* 👥 Community Groups
-* 📢 Public Channels
-* 📞 Voice Calls
-* 🎥 Video Calls
-* 🔔 Smart Notifications
-* 🏢 Business Profiles
-* 🤖 AI Integration
-* 💰 XARIIR Pay (Upcoming)
-
----
 
 # 💻 Development Workflow
 
@@ -189,7 +166,7 @@ Maintenance
 
 # 🎯 2026 Goals
 
-* Launch XARIIR
+* Launch XARIIR - APP
 * Build Production Mobile Apps
 * Master System Design
 * Grow Open Source Contributions
@@ -212,7 +189,6 @@ Maintenance
 
 ### ⭐ Thanks for visiting my profile ⭐
 
-### XARIIR — Connecting Somali Communities Worldwide
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Keep+Learning;Keep+Building;Keep+Growing;Never+Stop+Creating" />
 
