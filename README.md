@@ -83,7 +83,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,python"/>
+<img src="https://skillicons.dev/icons?i=nodejs,Nest.js,express,mongodb,mysql,php,python"/>
 
 </p>
 
