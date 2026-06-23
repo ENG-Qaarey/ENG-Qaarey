@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm ENG-Qaarey
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=ENG-Qaarey;Full+Stack+Developer;React+Native+Developer;TypeScript+%7C+Node.js+Developer;Building+XARIIR+-+Somali+Connection+Platform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=ENG-Qaarey;Full+Stack+Developer;React+Native+Developer;TypeScript+%7C+Node.js+Nest.js+Developer;Building+XARIIR+-+Somali+Connection+Platform" alt="Typing SVG" />
 
 <br>
 
