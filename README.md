@@ -103,7 +103,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,expo,androidstudio,kotlin,swift"/>
+<img src="https://skillicons.dev/icons?i=react,expo,androidstudio,"/>
 
 </p>
 
