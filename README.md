@@ -41,7 +41,6 @@ Goal:
   - Build products that impact millions of users
 ```
 
----
 
 ---
 
@@ -61,15 +60,13 @@ Goal:
 
 </div>
 
-
+---
 
 # ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,express,dotnet,cs,php,python,java,tailwind,mysql,mongodb,postgres,firebase,supabase,docker,git,github,vscode,figma,postman&perline=7" />
 </p>
-
----
 
 ---
 
