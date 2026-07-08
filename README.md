@@ -67,7 +67,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,python,html,css,tailwind,mongodb,mysql,expo,figma,git,github,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?ts,react,nodejs,php,python,tailwind,mongodb,mysql,expo,figma,git,github,vscode&perline=8"/>
 
 </p>
 
