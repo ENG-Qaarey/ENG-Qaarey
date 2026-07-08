@@ -74,7 +74,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,androidstudio,flutter,kotlin,swift" />
+<img src="https://skillicons.dev/icons?i=react,androidstudio," />
 
 <br>
 
