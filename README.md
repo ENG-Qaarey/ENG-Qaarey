@@ -59,35 +59,9 @@ Goal:
 
 🏛️ Faculty of Computing & Information Technology
 
-💻 Software Engineering • Mobile Development • Web Development • Database Systems
-
-🚀 Passionate about building scalable software solutions and innovative digital products.
-
 </div>
 
----
 
-
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.facebook.com/profile.php?id=100083767241425">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="mailto:muscabqaarey@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@enginer__muscab">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 # ⚡ Tech Stack
 
