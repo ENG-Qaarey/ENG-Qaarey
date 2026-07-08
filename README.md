@@ -68,7 +68,7 @@ Goal:
 # 💻 Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nestjs,dotnet,cs,php,mysql,mongodb,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,dotnet,cs,php,python,java,html,css,tailwind,mysql,mongodb,postgres,firebase,supabase,docker,git,github,vscode,figma,postman&perline=7" />
 </p>
 
 ---
