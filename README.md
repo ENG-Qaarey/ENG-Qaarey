@@ -66,9 +66,7 @@ Goal:
 # ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?ts,react,nodejs,php,python,tailwind,mongodb,mysql,expo,figma,git,github,vscode&perline=8"/>
-
+<img src="https://skillicons.dev/icons?i=ts,js,java,php,python,html,css,c,cpp&perline=5" />
 </p>
 
 ---
