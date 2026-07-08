@@ -81,18 +81,6 @@ Goal:
 
 </p>
 
----
-
-
-# 📫 Contact
-
-📧 Email: [muscabqaarey@gmail.com](mailto:muscabqaarey@gmail.com)
-
-📱 TikTok: @enginer__muscab
-
-🌐 GitHub: https://github.com/ENG-Qaarey
-
----
 
 <div align="center">
 
