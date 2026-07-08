@@ -65,9 +65,13 @@ Goal:
 
 # ⚡ Tech Stack
 
+# 💻 Languages & Technologies
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,java,php,python,html,css,c,cpp&perline=5" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nestjs,dotnet,cs,php,mysql,mongodb,html,css&perline=6" />
 </p>
+
+---
 
 ---
 
